@@ -1,0 +1,15 @@
+{ 
+    "name": "Aurora Editor Test Extension",
+    "description": "This is a sample extension file that demonstrates how to create a custom editor in Aurora Editor.",
+    "warning": "This is a sample file and should not be used in production. It is for development purposes only.",
+    "info": "This is informational text, This is informational text, This is informational text, This is informational text",
+    "version": "0.0.1",
+    "author": "Aurora Editor / Aurora Editor (Wesley de Groot / 0xWDG)",
+    "website": "https://auroraeditor.com/?some/long/url/which/does/not/exist",
+    "license": "MIT",
+    "AEVersion": "0.0.1",
+    "permissions": [
+        "FILE_RW", "NOTIFICATIONS", "CUSTOM_EDITOR"
+    ],
+    "index": "extension.js"
+}
